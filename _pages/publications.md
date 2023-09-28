@@ -5,13 +5,43 @@ permalink: /publications/
 author_profile: true
 ---
 
+**2021**
+
+\[138\] _Bitemporal Dynamic Graph Analytics (Position Paper)_, Hassan Halawa, Matei Ripeanu, joint Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA) - Co-located with SIGMOD 2021, June 2021 [pdf](http://ece.ubc.ca/~matei/papers/grades2021.pdf) [slides](http://ece.ubc.ca/~matei/papers/grades2021.pptx) [video](https://todo/)
+
+\[137\] _Snowflakes at the Edge -- A Study of Variability among NVIDIA Jetson AGX Xavier Boards_, Hazem A. Abdelhafez, Hassan Halawa, Karthik Pattabiraman, Matei Ripeanu, The 4th International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2021), in conjunction with ACM EuroSys 2021, April 2021, [pdf](http://ece.ubc.ca/~matei/papers/edgesys2021.pdf) [slides](http://ece.ubc.ca/~matei/papers/edgesys2021.pptx) [video](https://www.youtube.com/watch?v=YUNE4zDXGQs)
+
+\[136\] _Scalable Pattern Matching in Metadata Graphs via Constraint Checking_, Tahsin Reza, Hassan Halawa, Matei Ripeanu, Geoffrey Sanders, Roger Pearce, ACM Transactions on Parallel Computing, vol 8(1), pp. 1-45, January 2021, [preprint](https://arxiv.org/abs/1912.08453) [pdf](https://dl.acm.org/doi/10.1145/3434391)
+
+\[135\] _The Future is Big Graphs! A Community View on Graph Processing Systems_, Serif Sakr et al,. Communication of the ACM (accepted) [preprint](https://arxiv.org/abs/2012.06171)
+
+**2020**
+
+\[134\] _HyGN: Hybrid Graph Engine for NUMA_, Tanuj Aasawat, Tahsin Reza, Kazuki Yoshizoe, Matei Ripeanu, 2020 IEEE International Conference on Big Data (IEEE BigData 2020), December 2020 [pdf](http://www.ece.ubc.ca/~matei/papers/bigdata2020.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/bigdata2020.pptx)
+
+\[133\] _Labelled Triangle Indexing for Efficiency Gains in Distributed Interactive Subgraph Search_, , Tahsin Reza, Matei Ripeanu, Roger Pearce, Geoffrey Sanders, 10th Workshop on Irregular Applications: Architectures and Algorithms (IA^3) in conjunction with SC20, November 2020. (acceptance rate: 20%) [pdf](http://www.ece.ubc.ca/~matei/papers/ia3-2020.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/ia3-2020.pptx)
+
+\[132\] _Approximate Pattern Matching in Massive Graphs with Precision and Recall Guarantees_, Tahsin Reza, Matei Ripeanu, Geoffrey Sanders, Roger A. Pearce, ACM SIGMOD/PODC Conference on The Management of Data (SIGMOD 2020), June 2020, Portland Oregon. (acceptance rate: ~20%) [pdf](https://dl.acm.org/doi/abs/10.1145/3318464.3380566) [pre-print](http://www.ece.ubc.ca/~matei/papers/sigmod2020.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/sigmod2020.pptx)
+
+\[131\] _Towards Interactive Pattern Search in Massive Graphs_, Tahsin Reza, Geoffrey Sanders, Roger Pearce, Matei Ripeanu, Joint Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA) - Co-located with SIGMOD 2020, Portland, OR, USA, June 2020 [pdf](http://www.ece.ubc.ca/~matei/papers/grades2020.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/grades2020.pptx)
+
 **2019**
 
-\[125\] _Forecasting Suspicious Account Activity at Large-Scale Online Service Providers_, Hassan Halawa, Konstantin Beznosov, Baris Coskun, Meizhu Liu, Matei Ripeanu, Financial Cryptography and Data Security Conference, February 2019, (acceptance rate: 33/178 = 18%) [paper](https://todo/) [slides](https://todo/) [TechnicalReport](https://arxiv.org/abs/1801.08629)
+\[130\] _BonVoision: Leveraging Spatial Data Smoothness for Recovery from Memory Soft Errors_, Bo Fang, Hassan Halawa, Karthik Pattabiraman, Matei Ripeanu, Sriram Krishnamoorthy, ACM International Conference on Supercomputing (ICS’2019) (acceptance rate: 45/193 = 23.3%) [pdf](http://www.ece.ubc.ca/~matei/papers/ics2019.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/ics2019.pptx)
+
+\[129\] _Incremental Graph Processing for On-Line Analytics_, Scott Sallinen, Roger Pearce, Matei Ripeanu, 33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS'19), May 20-24, 2019, Rio de Janeiro, Brazil (acceptance rate: 24.5.7%) [pdf](http://www.ece.ubc.ca/~matei/papers/ipdps2019.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/ipdps2019.pptx)
+
+\[128\] _AHEAD: A Tool for Projecting Next-Generation Hardware Enhancements on GPU-Accelerated Systems_, Hazem A. Abdelhafez, Christopher Zimmer, Sudharshan S. Vazhkudai and Matei Ripeanu, 21st Workshop on Advances in Parallel and Distributed Computational Models (APDCM 2019), co-located with IPDPS’19, May 2019, (_Best Paper Award_) [pdf](http://www.ece.ubc.ca/~matei/papers/apdcm2019.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/apdcm2019.pptx)
+
+\[127\] _Studying the Impact of CPU and Memory Controller Frequencies on Power Consumption of the Jetson TX1_, Hazem A. Abdelhafez, Matei Ripeanu, 4th IEEE International Conference on Fog and Mobile Edge Computing FMEC 2019), Rome, Italy. June 10-13, 2019 (acceptance rate: ??)[pdf](http://www.ece.ubc.ca/~matei/papers/fmec2019.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/fmec2019.pptx)
+
+\[126\] _Forecasting Suspicious Account Activity at Large-Scale Online Service Providers_, Hassan Halawa, Konstantin Beznosov, Baris Coskun, Meizhu Liu, Matei Ripeanu, Financial Cryptography and Data Security Conference, February 2019, (acceptance rate: 21.8%) [pdf](http://www.ece.ubc.ca/~matei/papers/fc2019.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/fc2019slides.pdf) [TechnicalReport](https://arxiv.org/abs/1801.08629)
+
+\[125\] _Towards Predicting the Impact of Roll-Forward Failure Recovery for HPCApplications_, Bo Fang, Jieyang Chen, Karthik Pattabiraman, Matei Ripeanu, Sriram Krishnamoorthy, the 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2019), June 2019. Fast Abstract. [pdf](https://ieeexplore.ieee.org/document/8805765) [slides](http://www.ece.ubc.ca/~matei/papers/dsn2019slides.pdf)
 
 **2018**
 
-\[124\] _PruneJuice: Pruning Trillion-edge Graphs to a Precise Pattern-Matching Solution_, Tahsin Reza, Matei Ripeanu, Nicolas Tripoul, Geoffrey Sanders, Roger Pearce, IEEE/ACM International Conference on High Performance Computing, Networking, Storage and Analysis (SC'18), Dallas, November 2018 (acceptance rate: 19%) [pdf](http://www.ece.ubc.ca/~matei/papers/sc18.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/sc18.pptx)
+\[124\] _PruneJuice: Pruning Trillion-edge Graphs to a Precise Pattern-Matching Solution_, Tahsin Reza, Matei Ripeanu, Nicolas Tripoul, Geoffrey Sanders, Roger Pearce, IEEE/ACM International Conference on High Performance Computing, Networking, Storage and Analysis (SC'18), Dallas, November 2018 (acceptance rate: 19%) [pdf](http://www.ece.ubc.ca/~matei/papers/sc18.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/sc2018.pptx) [extended technical report](https://arxiv.org/abs/1912.08453)
 
 \[123\] _There are Trillions of Little Forks in the Road. Choose Wisely! – Estimating the Cost and Likelihood of Success of Constrained Walks to Optimize a Graph Pruning Pipeline_, Nicolas Tripoul, Hassan Halawa, Tahsin Reza, Geoffrey Sanders, Roger Pearce, Matei Ripeanu, 8th Workshop on Irregular Applications: Architectures and Algorithms (IA^3) in conjunction with SC18, Novembner 2018. [pdf](http://www.ece.ubc.ca/~matei/papers/ia3-nicolas.pdf) \[ [full\_version](http://www.ece.ubc.ca/~matei/papers/ia3-nicolas.pdf) \][slides](http://www.ece.ubc.ca/~matei/papers/ia3-nicolas-slides.pptx)
 
@@ -355,13 +385,19 @@ _**Talks**_
 _**Dissertations**_
 -------------------
 
-\[15\] Tanuj Kr Aasawat, _Scale-Free Graph Processing on a NUMA Machine_, November2018, [UBC\_library](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0372898) [slides](http://www.ece.ubc.ca/~matei/papers/ia3-tanuj-slides.pptx)
+\[18\] Bo Fang, _Approaches for building error resilient applications_, PhD Dissertation, February 2020, [UBC\_library](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0389536) [slides](http://www.ece.ubc.ca/~matei/papers/bo-phd-slides.pptx)
 
-\[14\] Abdullah Gharaibeh, _Accelerating Irregular Applications on Parallel Hybrid Platforms_, April 2015, [UBC\_library](http://circle.ubc.ca/handle/2429/53411) [slides](http://www.ece.ubc.ca/~matei/papers/abdullah-phd-slides.pptx)
+\[17\] Tahsin Reza, _Pattern Matching in Massive Metadata Graphs at Scale_, PhD Dissertation, December 2019, [UBC\_library](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0387453) [slides](http://www.ece.ubc.ca/~matei/papers/tahsin-phd-slides.pptx)
 
-\[13\] Yazan Boshmaf, _Security Analysis of Malicious Socialbots on the Web_, April 2015, [UBC\_library](http://circle.ubc.ca/handle/2429/53166) [slides](http://www.ece.ubc.ca/~matei/papers/yazan-phd-slides.pptx)
+\[16\] Salma Kashani, _Privacy on Social Networking Sites Among Canadian Teenagers_, Master of Applied Science Dissertation, March 2019, [UBC\_library](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0378336)
 
-\[12\] Lauro Beltrão Costa, _Support for Configuration and Provisioning of Intermediate Storage Systems_, December 2014, [UBC\_library](http://goo.gl/1BpnaC) [PDF](http://goo.gl/bn3Uvj) [slides](http://www.ece.ubc.ca/~matei/papers/lauro-phd-slides.pptx)
+\[15\] Tanuj Kr Aasawat, _Scale-Free Graph Processing on a NUMA Machine_, Master of Applied Science Dissertation, November 2018, [UBC\_library](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0372898) [slides](http://www.ece.ubc.ca/~matei/papers/ia3-tanuj-slides.pptx)
+
+\[14\] Abdullah Gharaibeh, _Accelerating Irregular Applications on Parallel Hybrid Platforms_, PhD Dissertation, April 2015, [UBC\_library](http://circle.ubc.ca/handle/2429/53411) [slides](http://www.ece.ubc.ca/~matei/papers/abdullah-phd-slides.pptx)
+
+\[13\] Yazan Boshmaf, _Security Analysis of Malicious Socialbots on the Web_, PhD Dissertation, April 2015, [UBC\_library](http://circle.ubc.ca/handle/2429/53166) [slides](http://www.ece.ubc.ca/~matei/papers/yazan-phd-slides.pptx)
+
+\[12\] Lauro Beltrão Costa, _Support for Configuration and Provisioning of Intermediate Storage Systems_, PhD Dissertation, December 2014, [UBC\_library](http://goo.gl/1BpnaC) [PDF](http://goo.gl/bn3Uvj) [slides](http://www.ece.ubc.ca/~matei/papers/lauro-phd-slides.pptx)
 
 \[11\] Hao Yang, _Energy Prediction for I/O Intensive Workflow Applications_, Master of Applied Science Dissertation, September 2014, [link](http://www.ece.ubc.ca/~matei/papers/hao-masc-thesis.pdf) [slides](http://www.ece.ubc.ca/~matei/papers/hao-masc-slides.pptx)
 
@@ -387,6 +423,8 @@ _**Dissertations**_
 
 _**Internal**_
 --------------
+
+\[11\] Hazem A. Abdelhafez, _Towards Energy-Efficient Computing on Heterogeneous Unified Memory Architectures_, PhD proposal, October 2019, [pdf](http://www.ece.ubc.ca/~matei/PAPERS/Internal/PhDProposal-Hazem.pdf) [slides](http://www.ece.ubc.ca/~matei/PAPERS/Internal/PhDProposal-Hazem.pptx)
 
 \[10\] Bo Fang, _Improving the Eﬃciency of Fault Tolerance Techniques_, PhD proposal, November 2017, [pdf](http://www.ece.ubc.ca/~matei/PAPERS/Internal/PhDProposal-BoFang.pdf) [slides](http://www.ece.ubc.ca/~matei/PAPERS/Internal/PhDProposal-BoFang.pptx)
 
