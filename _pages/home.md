@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Netsyslab"
+title: "NetSysLab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
