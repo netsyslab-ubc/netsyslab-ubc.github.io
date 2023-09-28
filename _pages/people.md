@@ -9,42 +9,42 @@ author_profile: true
 Faculty
 -------
 
-[Matei Ripeanu](http://www.ece.ubc.ca/~matei/)
+[Matei Ripeanu](people.ece.ubc.ca/~matei/)
 
 Students
 --------
 
-[Hazem Abdelhafez (PhD)](http://www.ece.ubc.ca/~hazem/)
+[Hazem Abdelhafez](people.ece.ubc.ca/~hazem/) (PhD)
 
-[Hassan Halawa](http://www.ece.ubc.ca/~hhalawa/) (PhD)
+[Hassan Halawa](people.ece.ubc.ca/~hhalawa/) (PhD)
 
-[Scott Sallinen](http://www.ece.ubc.ca/~scotts/) (PhD)
+[Scott Sallinen](people.ece.ubc.ca/~scotts/) (PhD)
 
 Alumni
 ------
 
 [Bo Fang](https://flyree.github.io/) (PhD'20, now at PNNL)
 
-[Tahsin Reza](http://www.ece.ubc.ca/~treza/) (PhD'19, now at LLNL)
+[Tahsin Reza](people.ece.ubc.ca/~treza/) (PhD'19, now at LLNL)
 
-[Abdullah Gharaibeh](http://www.ece.ubc.ca/~abdullah/) (PhD'15, MASc'11, now at Google)
+[Abdullah Gharaibeh](people.ece.ubc.ca/~abdullah/) (PhD'15, MASc'11, now at Google)
 
-[Yazan Boshmaf](http://www.ece.ubc.ca/~boshmaf/) (PhD'15, now at QCRI)
+[Yazan Boshmaf](people.ece.ubc.ca/~boshmaf/) (PhD'15, now at QCRI)
 
 [Lauro Beltrão Costa](http://laurocosta.net/) (PhD'14, now at Google)
 
-[Elizeu Santos-Neto](http://www.ece.ubc.ca/~elizeus/) (PhD'14, now at Google)
+[Elizeu Santos-Neto](people.ece.ubc.ca/~elizeus/) (PhD'14, now at Google)
 
-[Samer Al-Kiswany](http://www.ece.ubc.ca/~samera/) (PhD'13, MASc'09, now at UofWaterloo)
+[Samer Al-Kiswany](people.ece.ubc.ca/~samera/) (PhD'13, MASc'09, now at UofWaterloo)
 
 
-[Qiang Wei](http://www.ece.ubc.ca/~qiangw/) (PhD'09, now at CCB)
+[Qiang Wei](people.ece.ubc.ca/~qiangw/) (PhD'09, now at CCB)
 
 [Salma Kashani](https://www.linkedin.com/in/salma-kashani-7a98ba57) (MASc'19, now at WeatherBug)
 
-[Tanuj kr Aasawat](http://www.ece.ubc.ca/~taasawat) (MASc'18 now at RIKEN)
+[Tanuj kr Aasawat](people.ece.ubc.ca/~taasawat) (MASc'18 now at RIKEN)
 
-[Hao Yang](http://www.ece.ubc.ca/~haoy/) (MASc'14, now at Amazon)
+[Hao Yang](people.ece.ubc.ca/~haoy/) (MASc'14, now at Amazon)
 
 [Bo Fang](https://flyree.github.io/) (MASc'14, now at UBC)
 
@@ -53,11 +53,11 @@ Alumni
 
 [Emalayan Vairavanathan](https://sites.google.com/site/towardsexascalestorage/) (MASc'12, now at NetApp)
 
-[Kyle Zeeuwen](http://www.ece.ubc.ca/~kylez/) (MASc'11, now at Sophos)
+[Kyle Zeeuwen](people.ece.ubc.ca/~kylez/) (MASc'11, now at Sophos)
 
-[Armin Bahramshahry](http://www.ece.ubc.ca/~arminb/) (MASc'09; now at SalesForce)
+[Armin Bahramshahry](people.ece.ubc.ca/~arminb/) (MASc'09; now at SalesForce)
 
-[Hesam Ghasemi](http://www.ece.ubc.ca/~hghasemi/) (MEng'10)
+[Hesam Ghasemi](people.ece.ubc.ca/~hghasemi/) (MEng'10)
 
 Abdallah Baabdallah (MEng'09; now at AMOCO )
 
@@ -94,7 +94,7 @@ Dipayan Mukherjee (May'15-Aug'15)
 Daniel Lucas (May'14-Aug'14)
 
 
-[Tanuj kr Aasawat](http://www.ece.ubc.ca/~taasawat) (May'14-Aug'14)
+[Tanuj kr Aasawat](people.ece.ubc.ca/~taasawat) (May'14-Aug'14)
 
 
 Sidney Pontes Filho (June'13-Aug'13)
