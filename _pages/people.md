@@ -65,8 +65,8 @@ David Boen (MEng'10)
 
 Gregory Redekop (USRA, now at Microsoft)
 
-Visitors
 
+Visitors
 --------
 
 
